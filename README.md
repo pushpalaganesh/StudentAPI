@@ -56,13 +56,14 @@
 ![Screenshot (7)](https://github.com/user-attachments/assets/0e885e05-52f6-4394-bf58-c61806afb985)
 
 ## PUT method
-![Screenshot 2025-07-04 160332](https://github.com/user-attachments/assets/688aa092-0f7c-432f-aa12-6c556f482fbd)
+![Screenshot 2025-07-04 160509](https://github.com/user-attachments/assets/3fc8578e-9269-4b42-82aa-0bc905e00c05)
+
 
 ## DELETE method
 ![Screenshot (9)](https://github.com/user-attachments/assets/7b740183-6e4b-461d-9e33-7d495ac84a9a)
 
 
-**Use Postman or curl to test the API.**
+## Use Postman or curl to test the API
 ![Screenshot (10)](https://github.com/user-attachments/assets/b0f3f5ed-b302-4134-b364-50d6074acdd9)
 ![Screenshot (12)](https://github.com/user-attachments/assets/e69eb035-fd8d-4144-951b-c6379a1ce517)
 
